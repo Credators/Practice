@@ -20,11 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb80ce5a-8624-4ab1-8eb0-f9ef0f79630d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Конструктор if-else, swich-case/OR AND.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Конструктор if-else, swich-case/empty, isset.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Конструктор if-else, swich-case/if-else.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Конструктор if-else, swich-case/logic var.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Конструктор if-else, swich-case/temp.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Конструктор if-else, swich-case/OR AND.php" beforeDir="false" afterPath="$PROJECT_DIR$/Конструктор if-else, swich-case/OR AND.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +42,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../dneprBirja" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -59,6 +57,7 @@
       <workItem from="1622448921963" duration="5738000" />
       <workItem from="1622529177755" duration="615000" />
       <workItem from="1623054444692" duration="4634000" />
+      <workItem from="1623137045466" duration="1710000" />
     </task>
     <servers />
   </component>
@@ -90,5 +89,9 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="660" y="252" key="run.anything.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1623057591468" />
+    <state x="659" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1623138664840">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="659" y="259" width="672" height="678" key="search.everywhere.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1623138664840" />
   </component>
 </project>
